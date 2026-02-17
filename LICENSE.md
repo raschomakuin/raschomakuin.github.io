@@ -1,21 +1,97 @@
-MIT License
-
+Kantong Aplikasi Theme License Agreement
 Copyright (c) 2026 Kantong Aplikasi
+All Rights Reserved.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Official Contact:
+Email: contact@kantongaplikasi.com
+Technical Support: support@kantongaplikasi.com
+WhatsApp: +62 813-9244-2358
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+==================================================
+FREE PERSONAL LICENSE
+==================================================
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+This theme is provided free of charge for PERSONAL USE ONLY.
+
+Allowed:
+- Personal projects
+- Learning purposes
+- Personal (non-commercial) websites
+
+Not Allowed:
+- Client projects
+- Business or company websites
+- Revenue-generating websites
+- Redistribution of theme files
+- Reselling in any form
+- Uploading to marketplaces (free or paid)
+- Repackaging as starter kits or bundles
+- Claiming ownership or authorship
+
+Any commercial, client, or business usage requires a paid license.
+
+==================================================
+COMMERCIAL LICENSE – $19
+(Single Project / Single Domain)
+==================================================
+
+Allowed:
+- Use for 1 commercial website
+- Use for 1 client project
+- Revenue-generating website
+- Modification permitted
+
+Not Allowed:
+- Multi-domain usage
+- Redistribution
+- Marketplace upload
+- Reselling as standalone template
+
+==================================================
+AGENCY LICENSE – $99
+(Multi Client Use)
+==================================================
+
+Allowed:
+- Unlimited client projects
+- Multi-domain usage for clients
+- Full modification rights
+
+Not Allowed:
+- Reselling as template product
+- Public redistribution
+- Marketplace upload
+
+==================================================
+ENTERPRISE LICENSE – $249
+(Corporate / Company-Wide Use)
+==================================================
+
+Allowed:
+- Unlimited internal company use
+- Multi-domain deployment under one organization
+- Advanced customization rights
+
+Not Allowed:
+- Reselling as template
+- Public redistribution
+- Marketplace upload
+
+==================================================
+
+GENERAL TERMS
+
+1. Ownership of this theme remains with Kantong Aplikasi.
+2. Purchasing a license grants usage rights, not ownership.
+3. Violation of these terms results in immediate termination of license rights.
+4. No refunds once license is issued.
+5. Kantong Aplikasi reserves the right to update license terms at any time.
+
+For licensing inquiries:
+contact@kantongaplikasi.com
+
+For technical support:
+support@kantongaplikasi.com
+
+WhatsApp:
++62 813-9244-2358
